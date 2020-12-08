@@ -18,6 +18,6 @@ const jumpingOnClouds = (c) => {
   return jumps;
 };
 
-console.log(jumpingOnClouds(cenario1));
+jumpingOnClouds(cenario1);
 
 //c representa o cenario, mantenha o nome pra eu poder testar no hackerrank :D
